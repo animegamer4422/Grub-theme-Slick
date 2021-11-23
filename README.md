@@ -6,4 +6,4 @@
  Anyways Run this command into the terminal of your  linux distribution to install the theme 
 
 ```
-cd && rm -rf Grub-theme-Slick && sudo apt update && sudo apt install git -y && git clone https://github.com/animegamer4422/Grub-theme-Slick && cd Grub-theme-Slick && chmod +x install.sh && sudo bash install.sh```
+cd && rm -rf Grub-theme-Slick && sudo apt update && sudo apt install git -y && git clone https://github.com/animegamer4422/Grub-theme-Slick && cd Grub-theme-Slick && chmod +x install.sh && sudo bash install.sh
